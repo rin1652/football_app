@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:football_app/screens/sign_in/widgets/body.dart';
+import 'package:football_app/presentation/screens/sign_in/widgets/body.dart';
 
 class SignInScreen extends StatelessWidget {
   const SignInScreen({super.key});

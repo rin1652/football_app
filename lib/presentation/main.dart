@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:football_app/routs.dart';
-import 'package:football_app/themes/themes.dart';
+import 'package:football_app/presentation/routs.dart';
+import 'package:football_app/ui/themes/themes.dart';
 import 'screens/onboarding/onboarding_screen.dart';
 
 void main() {

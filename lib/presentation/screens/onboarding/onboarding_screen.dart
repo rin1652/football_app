@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:football_app/screens/onboarding/widgets/body.dart';
+import 'package:football_app/presentation/screens/onboarding/widgets/body.dart';
 
 class OnboardingScreen extends StatelessWidget {
   const OnboardingScreen({super.key});

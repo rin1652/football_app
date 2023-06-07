@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:football_app/screens/onboarding/widgets/splash_content.dart';
-import 'package:football_app/screens/sign_in/sign_in_screen.dart';
+import 'package:football_app/presentation/screens/onboarding/widgets/splash_content.dart';
+import 'package:football_app/presentation/screens/sign_in/sign_in_screen.dart';
 
 class Body extends StatefulWidget {
   const Body({super.key});
